@@ -1,0 +1,61 @@
+baseURL = 'https://example.org/'
+languageCode = 'pt-br'
+title = "Pinheiro's blog"
+theme = 'typo'
+
+googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+description = "Meu blog pessoal de tecnologia, com foco geral na área de desenvolvimento."
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = true
+
+homeIntroTitle = 'Meus cumprimentos.'
+homeIntroContent = """
+Eu sou um desenvolvedor em formação que tem interesse principalmente em *Web*, *Cybersecurity*, **Linux** e programação de baixo nível, mas pretendo tratar aqui de diversos assuntos.
+Meus principais objetivos com esse blog são bem claros: melhorar minha comunicação (algo em que programadores costumam pecar), guiar e registrar meu aprendizado e, claro, auxiliar a comunidade BR de desenvolvedores.
+"""
+
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
+
+[[params.social]]
+name = "gmail"
+url = "mailto:joaovictorpinheiro1510@gmail.com"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/pinheiroreis/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/PinheiroReis/"
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[markup]
+[markup.highlight]
+style = 'algol_nu'
