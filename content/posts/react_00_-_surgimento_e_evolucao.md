@@ -20,7 +20,7 @@ Com a complexidade dos anúncios do *Facebook* e a aquisição do *Instagram*, o
 
 O grande lançamento do *React* e *JSX* foi em 2013, ano em que  ficou disponível para aplicações com *Ruby on Rails* e *Python*, por exemplo. Após isso, ele passou a ser cada vez mais usado, inclusive por grandes empresas, além de ter crescido consideravelmente (com o surgimento do *React Hot Loader*, *React Canvas*, *Redux*, *React Developer Tools* e *React Native*).
 
-Hoje em dia, muitos programadores e, aliás, muitos outros *Frameworks* e ferramentas, são adeptos a ele, sendo o *Framework Web* mais utilizado da atualidade, desconsiderando o *Node.js* como membro da categoria.
+Hoje em dia, muitos programadores e, aliás, muitos outros *Frameworks* e ferramentas, são adeptos a ele, sendo o *Framework Web* (apesar de considerado, na verdade, uma biblioteca) mais utilizado da atualidade, desconsiderando o *Node.js* como um membro dessa categoria.
 
 ## Links
 - [A História do React!](https://medium.com/@ppternunes/a-hist%C3%B3ria-do-react-ba346c416fe1)
